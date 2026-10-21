@@ -1,0 +1,20 @@
+/* Styles.css */
+.Im_A_Class {
+    background-color: red;
+    font-size: 18px;
+}
+
+.Im_A_Class.But_Cooler {
+    font-size: 32px;
+}
+
+#No2 {
+    color: blue;
+    font-size: 48px;
+}
+
+#No4 {
+    background-color: green;
+    font-size: 32px;
+    font-weight: bold;
+}
